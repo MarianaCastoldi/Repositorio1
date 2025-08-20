@@ -1,0 +1,23 @@
+body{
+    color:gainsboro;
+    background: black
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-botton: 100px;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(186, 189, 194);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(186, 189, 194);
+}
+
+
+.chamada {
+    background: rgb(174, 163, 185);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
